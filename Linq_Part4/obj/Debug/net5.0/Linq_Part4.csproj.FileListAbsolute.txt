@@ -1,0 +1,16 @@
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\bin\Debug\net5.0\Linq_Part4.exe
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\bin\Debug\net5.0\Linq_Part4.deps.json
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\bin\Debug\net5.0\Linq_Part4.runtimeconfig.json
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\bin\Debug\net5.0\Linq_Part4.runtimeconfig.dev.json
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\bin\Debug\net5.0\Linq_Part4.dll
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\bin\Debug\net5.0\ref\Linq_Part4.dll
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\bin\Debug\net5.0\Linq_Part4.pdb
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\obj\Debug\net5.0\Linq_Part4.csprojAssemblyReference.cache
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\obj\Debug\net5.0\Linq_Part4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\obj\Debug\net5.0\Linq_Part4.AssemblyInfoInputs.cache
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\obj\Debug\net5.0\Linq_Part4.AssemblyInfo.cs
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\obj\Debug\net5.0\Linq_Part4.csproj.CoreCompileInputs.cache
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\obj\Debug\net5.0\Linq_Part4.dll
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\obj\Debug\net5.0\ref\Linq_Part4.dll
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\obj\Debug\net5.0\Linq_Part4.pdb
+C:\Users\EA33010\source\repos\Linq_Part4\Linq_Part4\obj\Debug\net5.0\Linq_Part4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Listado alumnos-->
+<?xml-stylesheet href=MyStyles.css title='Compact' type='text/css'?>
+<Alumnos>
+  <Ana ID="10100">
+    <Curso>Administracion</Curso>
+    <Promedio>10</Promedio>
+  </Ana>
+  <Luis ID="25350">
+    <Curso>Programacion</Curso>
+    <Promedio>9.5</Promedio>
+  </Luis>
+</Alumnos>

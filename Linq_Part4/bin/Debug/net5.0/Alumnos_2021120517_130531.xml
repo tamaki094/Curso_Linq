@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Personas>
+	<Alumnos>
+	  <Alumno Nombre="Jose">
+		<Curso>Programacion</Curso>
+		<Calificacion>8</Calificacion>
+	  </Alumno>
+	  <Alumno Nombre="Susana">
+		<Curso>UML</Curso>
+		<Calificacion>9</Calificacion>
+	  </Alumno>
+	  <Alumno Nombre="Maria">
+		<Curso>Orientado a objetos</Curso>
+		<Calificacion>10</Calificacion>
+	  </Alumno>
+	  <Alumno Nombre="Luis">
+		<Curso>UML</Curso>
+		<Calificacion>10</Calificacion>
+	  </Alumno>
+	  <Alumno Nombre="Edri">
+		<Curso>UML</Curso>
+		<Calificacion>10</Calificacion>
+	  </Alumno>
+	  <Alumno Nombre="Rosaisela">
+		<Curso>Administracion de bases de datos</Curso>
+		<Calificacion>8</Calificacion>
+	  </Alumno>
+	  <Alumno Nombre="Humberto">
+		<Curso>Redes</Curso>
+		<Calificacion>6</Calificacion>
+	  </Alumno>
+	</Alumnos>
+	<Maestros>
+		<Maestro Nombre="Dulce">
+			<Curso>Administracion de bases de datos</Curso>
+			<Horario>Completo</Horario>
+		</Maestro>
+		<Maestro Nombre="Noe">
+			<Curso>Programacion</Curso>
+			<Horario>Medio</Horario>
+		</Maestro>
+		<Maestro Nombre="Antonio">
+			<Curso>Orientado a objetos</Curso>
+			<Horario>Medio</Horario>
+		</Maestro>
+		<Maestro Nombre="Nico">
+			<Curso>UML</Curso>
+			<Horario>Completo</Horario>
+		</Maestro>
+	</Maestros>
+</Personas>
